@@ -1,1 +1,1 @@
-# Language-detection-of-a-sentence-using-python
+# Language-detection-of-a-sentence-using-python.
